@@ -13,6 +13,8 @@
 		069B295B20216B1C00D09EBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 069B295A20216B1C00D09EBE /* Assets.xcassets */; };
 		069B295E20216B1C00D09EBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 069B295C20216B1C00D09EBE /* LaunchScreen.storyboard */; };
 		069B296620216E7600D09EBE /* Mini1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B296520216E7600D09EBE /* Mini1.swift */; };
+		069B29682021701400D09EBE /* Mini2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29672021701400D09EBE /* Mini2.swift */; };
+		069B296C202174F600D09EBE /* Mini3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B296B202174F600D09EBE /* Mini3.swift */; };
 		E90FC4B420216F71001846AE /* Air1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90FC4B320216F71001846AE /* Air1.swift */; };
 		E9CD87C4202172090091FC04 /* Air2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C3202172090091FC04 /* Air2.swift */; };
 /* End PBXBuildFile section */
@@ -26,6 +28,8 @@
 		069B295D20216B1C00D09EBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		069B295F20216B1C00D09EBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		069B296520216E7600D09EBE /* Mini1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini1.swift; sourceTree = "<group>"; };
+		069B29672021701400D09EBE /* Mini2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini2.swift; sourceTree = "<group>"; };
+		069B296B202174F600D09EBE /* Mini3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini3.swift; sourceTree = "<group>"; };
 		E90FC4B320216F71001846AE /* Air1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air1.swift; sourceTree = "<group>"; };
 		E9CD87C3202172090091FC04 /* Air2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +68,8 @@
 				069B295520216B1C00D09EBE /* ViewController.swift */,
 				E90FC4B320216F71001846AE /* Air1.swift */,
 				069B296520216E7600D09EBE /* Mini1.swift */,
+				069B29672021701400D09EBE /* Mini2.swift */,
+				069B296B202174F600D09EBE /* Mini3.swift */,
 				E9CD87C3202172090091FC04 /* Air2.swift */,
 				069B295720216B1C00D09EBE /* Main.storyboard */,
 				069B295A20216B1C00D09EBE /* Assets.xcassets */,
@@ -146,6 +152,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				069B296620216E7600D09EBE /* Mini1.swift in Sources */,
+				069B296C202174F600D09EBE /* Mini3.swift in Sources */,
+				069B29682021701400D09EBE /* Mini2.swift in Sources */,
 				E9CD87C4202172090091FC04 /* Air2.swift in Sources */,
 				E90FC4B420216F71001846AE /* Air1.swift in Sources */,
 				069B295620216B1C00D09EBE /* ViewController.swift in Sources */,
