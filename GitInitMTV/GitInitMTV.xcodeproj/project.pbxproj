@@ -16,6 +16,8 @@
 		069B29682021701400D09EBE /* Mini2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29672021701400D09EBE /* Mini2.swift */; };
 		069B296C202174F600D09EBE /* Mini3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B296B202174F600D09EBE /* Mini3.swift */; };
 		069B2970202199C600D09EBE /* Mini4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B296F202199C600D09EBE /* Mini4.swift */; };
+		069B297220219F9100D09EBE /* Mini5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B297120219F9100D09EBE /* Mini5.swift */; };
+		069B29742021A01600D09EBE /* Mini6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29732021A01600D09EBE /* Mini6.swift */; };
 		E90FC4B420216F71001846AE /* Air1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90FC4B320216F71001846AE /* Air1.swift */; };
 		E9CD87C4202172090091FC04 /* Air2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C3202172090091FC04 /* Air2.swift */; };
 		E9CD87C6202177320091FC04 /* Air3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C5202177320091FC04 /* Air3.swift */; };
@@ -42,6 +44,8 @@
 		069B29672021701400D09EBE /* Mini2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini2.swift; sourceTree = "<group>"; };
 		069B296B202174F600D09EBE /* Mini3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini3.swift; sourceTree = "<group>"; };
 		069B296F202199C600D09EBE /* Mini4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini4.swift; sourceTree = "<group>"; };
+		069B297120219F9100D09EBE /* Mini5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini5.swift; sourceTree = "<group>"; };
+		069B29732021A01600D09EBE /* Mini6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini6.swift; sourceTree = "<group>"; };
 		E90FC4B320216F71001846AE /* Air1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air1.swift; sourceTree = "<group>"; };
 		E9CD87C3202172090091FC04 /* Air2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air2.swift; sourceTree = "<group>"; };
 		E9CD87C5202177320091FC04 /* Air3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air3.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 				E9CD87C720219BAA0091FC04 /* Air4.swift */,
 				E9CD87C920219C8C0091FC04 /* Air5.swift */,
 				069B296F202199C600D09EBE /* Mini4.swift */,
+				069B297120219F9100D09EBE /* Mini5.swift */,
+				069B29732021A01600D09EBE /* Mini6.swift */,
 				E9CD87CB20219D590091FC04 /* Air6.swift */,
 				E9CD87CD20219F230091FC04 /* Air7.swift */,
 				E9CD87CF20219F4D0091FC04 /* Air8.swift */,
@@ -190,8 +196,10 @@
 				E9CD87D62021A0B40091FC04 /* Air11.swift in Sources */,
 				E9CD87D42021A0570091FC04 /* Air10.swift in Sources */,
 				E9CD87CC20219D590091FC04 /* Air6.swift in Sources */,
+				069B297220219F9100D09EBE /* Mini5.swift in Sources */,
 				E9CD87C820219BAA0091FC04 /* Air4.swift in Sources */,
 				E9CD87D82021A1440091FC04 /* Air12.swift in Sources */,
+				069B29742021A01600D09EBE /* Mini6.swift in Sources */,
 				069B29682021701400D09EBE /* Mini2.swift in Sources */,
 				E9CD87D22021A0220091FC04 /* Air9.swift in Sources */,
 				E9CD87C4202172090091FC04 /* Air2.swift in Sources */,
