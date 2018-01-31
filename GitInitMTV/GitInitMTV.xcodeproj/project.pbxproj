@@ -21,6 +21,7 @@
 		069B29762021A26000D09EBE /* Mini7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29752021A26000D09EBE /* Mini7.swift */; };
 		069B29782021A34000D09EBE /* Mini8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29772021A34000D09EBE /* Mini8.swift */; };
 		069B297A2021A48000D09EBE /* Mini9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29792021A48000D09EBE /* Mini9.swift */; };
+		069B297C2021A4D300D09EBE /* Mini10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B297B2021A4D300D09EBE /* Mini10.swift */; };
 		E90FC4B420216F71001846AE /* Air1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90FC4B320216F71001846AE /* Air1.swift */; };
 		E9CD87C4202172090091FC04 /* Air2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C3202172090091FC04 /* Air2.swift */; };
 		E9CD87C6202177320091FC04 /* Air3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C5202177320091FC04 /* Air3.swift */; };
@@ -53,6 +54,7 @@
 		069B29752021A26000D09EBE /* Mini7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini7.swift; sourceTree = "<group>"; };
 		069B29772021A34000D09EBE /* Mini8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini8.swift; sourceTree = "<group>"; };
 		069B29792021A48000D09EBE /* Mini9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini9.swift; sourceTree = "<group>"; };
+		069B297B2021A4D300D09EBE /* Mini10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini10.swift; sourceTree = "<group>"; };
 		E90FC4B320216F71001846AE /* Air1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air1.swift; sourceTree = "<group>"; };
 		E9CD87C3202172090091FC04 /* Air2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air2.swift; sourceTree = "<group>"; };
 		E9CD87C5202177320091FC04 /* Air3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air3.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				069B29752021A26000D09EBE /* Mini7.swift */,
 				069B29772021A34000D09EBE /* Mini8.swift */,
 				069B29792021A48000D09EBE /* Mini9.swift */,
+				069B297B2021A4D300D09EBE /* Mini10.swift */,
 				E9CD87CB20219D590091FC04 /* Air6.swift */,
 				E9CD87CD20219F230091FC04 /* Air7.swift */,
 				E9CD87CF20219F4D0091FC04 /* Air8.swift */,
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9CD87C6202177320091FC04 /* Air3.swift in Sources */,
+				069B297C2021A4D300D09EBE /* Mini10.swift in Sources */,
 				069B29782021A34000D09EBE /* Mini8.swift in Sources */,
 				069B296620216E7600D09EBE /* Mini1.swift in Sources */,
 				069B29762021A26000D09EBE /* Mini7.swift in Sources */,
