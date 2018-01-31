@@ -24,6 +24,7 @@
 		E9CD87CC20219D590091FC04 /* Air6.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87CB20219D590091FC04 /* Air6.swift */; };
 		E9CD87CE20219F230091FC04 /* Air7.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87CD20219F230091FC04 /* Air7.swift */; };
 		E9CD87D020219F4D0091FC04 /* Air8.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87CF20219F4D0091FC04 /* Air8.swift */; };
+		E9CD87D22021A0220091FC04 /* Air9.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87D12021A0220091FC04 /* Air9.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		E9CD87CB20219D590091FC04 /* Air6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air6.swift; sourceTree = "<group>"; };
 		E9CD87CD20219F230091FC04 /* Air7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air7.swift; sourceTree = "<group>"; };
 		E9CD87CF20219F4D0091FC04 /* Air8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air8.swift; sourceTree = "<group>"; };
+		E9CD87D12021A0220091FC04 /* Air9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air9.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				E9CD87CB20219D590091FC04 /* Air6.swift */,
 				E9CD87CD20219F230091FC04 /* Air7.swift */,
 				E9CD87CF20219F4D0091FC04 /* Air8.swift */,
+				E9CD87D12021A0220091FC04 /* Air9.swift */,
 				069B295720216B1C00D09EBE /* Main.storyboard */,
 				069B295A20216B1C00D09EBE /* Assets.xcassets */,
 				069B295C20216B1C00D09EBE /* LaunchScreen.storyboard */,
@@ -178,6 +181,7 @@
 				E9CD87CC20219D590091FC04 /* Air6.swift in Sources */,
 				E9CD87C820219BAA0091FC04 /* Air4.swift in Sources */,
 				069B29682021701400D09EBE /* Mini2.swift in Sources */,
+				E9CD87D22021A0220091FC04 /* Air9.swift in Sources */,
 				E9CD87C4202172090091FC04 /* Air2.swift in Sources */,
 				E9CD87D020219F4D0091FC04 /* Air8.swift in Sources */,
 				E90FC4B420216F71001846AE /* Air1.swift in Sources */,
