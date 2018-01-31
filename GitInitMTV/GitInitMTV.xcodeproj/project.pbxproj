@@ -21,6 +21,7 @@
 		E9CD87C6202177320091FC04 /* Air3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C5202177320091FC04 /* Air3.swift */; };
 		E9CD87C820219BAA0091FC04 /* Air4.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C720219BAA0091FC04 /* Air4.swift */; };
 		E9CD87CA20219C8C0091FC04 /* Air5.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87C920219C8C0091FC04 /* Air5.swift */; };
+		E9CD87CC20219D590091FC04 /* Air6.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CD87CB20219D590091FC04 /* Air6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		E9CD87C5202177320091FC04 /* Air3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air3.swift; sourceTree = "<group>"; };
 		E9CD87C720219BAA0091FC04 /* Air4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air4.swift; sourceTree = "<group>"; };
 		E9CD87C920219C8C0091FC04 /* Air5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air5.swift; sourceTree = "<group>"; };
+		E9CD87CB20219D590091FC04 /* Air6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Air6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				E9CD87C720219BAA0091FC04 /* Air4.swift */,
 				E9CD87C920219C8C0091FC04 /* Air5.swift */,
 				069B296F202199C600D09EBE /* Mini4.swift */,
+				E9CD87CB20219D590091FC04 /* Air6.swift */,
 				069B295720216B1C00D09EBE /* Main.storyboard */,
 				069B295A20216B1C00D09EBE /* Assets.xcassets */,
 				069B295C20216B1C00D09EBE /* LaunchScreen.storyboard */,
@@ -166,6 +169,7 @@
 				E9CD87C6202177320091FC04 /* Air3.swift in Sources */,
 				069B296620216E7600D09EBE /* Mini1.swift in Sources */,
 				069B296C202174F600D09EBE /* Mini3.swift in Sources */,
+				E9CD87CC20219D590091FC04 /* Air6.swift in Sources */,
 				E9CD87C820219BAA0091FC04 /* Air4.swift in Sources */,
 				069B29682021701400D09EBE /* Mini2.swift in Sources */,
 				E9CD87C4202172090091FC04 /* Air2.swift in Sources */,
